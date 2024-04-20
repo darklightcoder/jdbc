@@ -10,5 +10,9 @@ To run issue the following commands
 
 I call a new JFrame everytime a delete/insert is performed. 
 
-
-<img src=“https://github.com/darklightcoder/jdbc/blob/main/screen.jpg”>
+<img
+src=“https://github.com/darklightcoder/jdbc/blob/main/screen.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
