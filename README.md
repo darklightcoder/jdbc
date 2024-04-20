@@ -9,3 +9,5 @@ To run issue the following commands
 2. java -cp ".:mysql-connector.jar" StudentInfo
 
 I call a new JFrame everytime a delete/insert is performed. 
+
+https://github.com/darklightcoder/jdbc/blob/main/screen.jpg
