@@ -11,8 +11,7 @@ To run issue the following commands
 I call a new JFrame everytime a delete/insert is performed. 
 
 <img
-src=“https://github.com/darklightcoder/jdbc/blob/main/screen.jpg”
+src="https://github.com/darklightcoder/jdbc/blob/main/screen.jpg"
 raw=true
-alt=“screen”
-
+alt="screen"
 />
