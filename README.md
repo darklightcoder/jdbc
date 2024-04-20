@@ -10,4 +10,5 @@ To run issue the following commands
 
 I call a new JFrame everytime a delete/insert is performed. 
 
-https://github.com/darklightcoder/jdbc/blob/main/screen.jpg
+
+<img src=“[https://github.com/KrisKasprzak/ILI9341_t3_controls](https://github.com/darklightcoder/jdbc/blob/main/screen.jpg)”>
